@@ -1,0 +1,2 @@
+# Deep-Learning-based-mobile-manipulator-for-warehouse-keeping
+Warehouses are important links in the supply chain between the manufacturers and the end consumers. People have been increasingly adopting automation to increase the efficiency of managing and moving goods through warehouses. We provide details of a robotic system that can automate the task of carrying objects from and to a rack in an e-commerce fulfilment warehouse.
