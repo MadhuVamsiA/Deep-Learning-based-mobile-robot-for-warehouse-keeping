@@ -1,7 +1,7 @@
 # Deep-Learning-based-mobile-manipulator-for-warehouse-keeping
 Warehouses are important links in the supply chain between the manufacturers and the end consumers. People have been increasingly adopting automation to increase the efficiency of managing and moving goods through warehouses. We provide details of a robotic system that can automate the task of carrying objects from and to a rack in an e-commerce fulfilment warehouse.
 
-We have used artificial neural network for obstacle avoidance and object detection .ANN is a soft computing technique which is used for the development of autonomous system which performs on the basis of the pretraining.We have used three layered neural network which is used for obstacle avoidance and we have  three layer neural network  for determining the destination .We have  designed a mobile manipulator which can move in free space and carry the language from the location to another in the warehouses.</b>
+We have used artificial neural network for obstacle avoidance .ANN is a soft computing technique which is used for the development of autonomous system and performs on the basis of the pretraining.We have used three layered multi layered perceptron  network which is used for obstacle avoidance .We have  designed a mobile robot  which can move in free space and carry the small goods from one location to another in the warehouses.
 
 
 ## Network architecture deesign is given in the figure
